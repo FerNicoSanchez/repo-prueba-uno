@@ -1,3 +1,4 @@
 archivo de la rama master
 modificamos archivo desde la rama nueva
 para fusionar las ramas
+archivo modificado desde el repositorio remoto 08/02 01:01hs
