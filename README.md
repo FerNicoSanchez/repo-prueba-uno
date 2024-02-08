@@ -1,4 +1,4 @@
-# repo-prueba-uno
+# Repo inicial
 Primer repositorio creado en github
 
 ## Descripción
