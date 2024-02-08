@@ -2,3 +2,4 @@ Archivo de prueba
 Hola soy FNS
 Nueva mod 02:27hs
 modificamos archivo2 antes del reset con head2
+Agregamos linea nueva desde el servidor en github
